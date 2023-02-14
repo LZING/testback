@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: listen1_desktop
+  name: testback
   annotations:
-    github.com/project-slug: LZING/listen1_desktop
+    github.com/project-slug: LZING/testback
 spec:
   type: other
   lifecycle: unknown
