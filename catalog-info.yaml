@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: 测试智权是怎么样的
+  name: testzhiquan
   annotations:
     github.com/project-slug: LZING/testback
 spec:
