@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
-kind: System
+kind: Domain
 metadata:
-  name: testback
+  name: 测试智权是怎么样的
   annotations:
     github.com/project-slug: LZING/testback
 spec:
   type: other
   lifecycle: unknown
-  owner: guests
+  owner: team-a
